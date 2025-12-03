@@ -80,7 +80,6 @@ A modern, responsive web application for managing hotel operations including roo
 • Search and filter functionality
 • Bulk operations support
 
+<img width="1886" height="1014" alt="Screenshot 2025-12-03 104139" src="https://github.com/user-attachments/assets/7f0b864a-494a-4348-9c94-a52fd2cd51ee" />
 
-
-• DELETE /bookings/:id – Delete booking
 
