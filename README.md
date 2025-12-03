@@ -1,10 +1,10 @@
-Frontend link (deployed): https://frontend-phi-one-87.vercel.app/
+## Frontend link (deployed): https://frontend-phi-one-87.vercel.app/
 
 
-Backend API link base URL: https://hotel-management-api-b4dl.onrender.com/
+## Backend API link base URL: https://hotel-management-api-b4dl.onrender.com/
 
 
-## 🏨 Luxury Hotel Management System**
+## 🏨 Luxury Hotel Management System
 
 
 **📘 Overview**
@@ -49,10 +49,10 @@ A modern, responsive web application for managing hotel operations including roo
 | DELETE | /bookings/:id | Delete booking                     |
 
 
-✨ Features:
+## ✨ Features:
 
 
-1️⃣ Dashboard 📊
+**1️⃣ Dashboard 📊**
 
 
 • Real-time statistics (Total Rooms, Guests, Bookings, Available Rooms)
@@ -66,7 +66,7 @@ A modern, responsive web application for managing hotel operations including roo
 • Refresh and report generation functionality
 
 
-2️⃣ Room Management 🛏️
+**2️⃣ Room Management 🛏️**
 
 • View all rooms with detailed information
 
@@ -79,7 +79,7 @@ A modern, responsive web application for managing hotel operations including roo
 • Room status tracking (Available, Occupied, Maintenance)
 
 
-3️⃣ Guest Management 🧑‍💼
+**3️⃣ Guest Management 🧑‍💼**
 
 • View guest list with contact information
 
@@ -90,7 +90,7 @@ A modern, responsive web application for managing hotel operations including roo
 • Store guest details (name, email, phone, address, ID)
 
 
-4️⃣ Booking Management 📆
+**4️⃣ Booking Management 📆**
 
 • View all bookings with guest and room details
 
@@ -103,7 +103,7 @@ A modern, responsive web application for managing hotel operations including roo
 • Booking status tracking (Pending, Confirmed, Checked In, Checked Out, Cancelled)
 
 
-5️⃣ UI/UX Features 🎨
+**5️⃣ UI/UX Features 🎨**
 
 • Responsive design for mobile, tablet, and desktop
 
@@ -120,7 +120,7 @@ A modern, responsive web application for managing hotel operations including roo
 • Interactive tables with action buttons
 
 
-6️⃣ Data Operations 🔗
+**6️⃣ Data Operations 🔗**
 
 • Real-time data fetching from API
 
@@ -132,10 +132,11 @@ A modern, responsive web application for managing hotel operations including roo
 
 • Bulk operations support
 
-🛠️ Technical Implementation
+
+## 🛠️ Technical Implementation
 
 
-🖥️ Frontend Architecture
+**🖥️ Frontend Architecture**
 
 
 • Vanilla JavaScript (no frameworks)
@@ -149,7 +150,7 @@ A modern, responsive web application for managing hotel operations including roo
 • Font Awesome icons for visual elements
 
 
-🔄 State Management
+**🔄 State Management**
 
 
 • Global state for rooms, guests, bookings
@@ -161,7 +162,7 @@ A modern, responsive web application for managing hotel operations including roo
 • Form validation state
 
 
-❗ Error Handling
+**❗ Error Handling**
 
 
 • Network error handling with retry options
@@ -173,7 +174,7 @@ A modern, responsive web application for managing hotel operations including roo
 • Graceful loading and error states
 
 
-⚡ Performance
+**⚡ Performance**
 
 • Optimized CSS with minimal reflows
 
@@ -184,10 +185,10 @@ A modern, responsive web application for managing hotel operations including roo
 • Parallel data fetching for dashboard
 
 
-📦 Setup Instructions
+## 📦 Setup Instructions
 
 
-✅ Prerequisites
+**✅ Prerequisites**
 
 • Modern web browser
 
@@ -196,7 +197,7 @@ A modern, responsive web application for managing hotel operations including roo
 • Backend API running at specified URL
 
 
-📁 Installation
+**📁 Installation**
 
 • Clone/download the three files (index.html, style.css, script.js)
 
@@ -205,14 +206,14 @@ A modern, responsive web application for managing hotel operations including roo
 • Open index.html in a browser
 
 
-⚙️ Configuration
+**⚙️ Configuration**
 
 • Update API_BASE_URL in script.js if backend changes
 
 • Modify color scheme in CSS variables if needed
 
 
-🌐 Browser Compatibility
+**🌐 Browser Compatibility**
 
 • Chrome 60+
 
@@ -223,7 +224,7 @@ A modern, responsive web application for managing hotel operations including roo
 • Edge 79+
 
 
-📂 File Structure
+**📂 File Structure**
 
 hotel-management-system/
 
@@ -234,7 +235,7 @@ hotel-management-system/
 └── script.js           # All JavaScript functionality
 
 
-📚 Dependencies
+**📚 Dependencies**
 
 • Font Awesome 6.4.0 (CDN)
 
@@ -243,7 +244,7 @@ hotel-management-system/
 • Custom API backend
 
 
-🚀 Future Enhancements
+**🚀 Future Enhancements**
 
 • User authentication and roles
 
@@ -262,7 +263,7 @@ hotel-management-system/
 • Dark/light theme toggle
 
 
-🔐 Security Notes
+**🔐 Security Notes**
 
 • No sensitive data stored locally
 
@@ -275,12 +276,12 @@ hotel-management-system/
 • No persistent authentication (stateless)
 
 
-📄 License
+**📄 License**
 
 This is a demo project for educational purposes.
 
 
-📘Frontend screenshots:
+## 📘Frontend screenshots:
 
 <img width="1886" height="1014" alt="Screenshot 2025-12-03 104139" src="https://github.com/user-attachments/assets/7f0b864a-494a-4348-9c94-a52fd2cd51ee" />
 <img width="1905" height="993" alt="Screenshot 2025-12-03 104152" src="https://github.com/user-attachments/assets/fdcede7e-448c-46c5-8a7a-e0378873b5a3" />
