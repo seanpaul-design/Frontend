@@ -80,6 +80,10 @@ A modern, responsive web application for managing hotel operations including roo
 • Search and filter functionality
 • Bulk operations support
 
+📘Frontend screenhots:
+
 <img width="1886" height="1014" alt="Screenshot 2025-12-03 104139" src="https://github.com/user-attachments/assets/7f0b864a-494a-4348-9c94-a52fd2cd51ee" />
+<img width="1905" height="993" alt="Screenshot 2025-12-03 104152" src="https://github.com/user-attachments/assets/fdcede7e-448c-46c5-8a7a-e0378873b5a3" />
+<img width="1895" height="997" alt="Screenshot 2025-12-03 104205" src="https://github.com/user-attachments/assets/9523caf6-b7bf-442f-94d9-2f05425e0397" />
 
 
