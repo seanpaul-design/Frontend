@@ -16,6 +16,8 @@ A modern, responsive web application for managing hotel operations including roo
 
 ⚙️ API Endpoints Used:
 
+🛏️ Rooms
+
 | Method | Endpoint         | Description                                  |
 | ------ | ---------------- | -------------------------------------------- |
 | GET    | /rooms           | Get all rooms                                |
@@ -23,6 +25,10 @@ A modern, responsive web application for managing hotel operations including roo
 | POST   | /rooms           | Create new room                              |
 | PUT    | /rooms/:id       | Update room                                  |
 | DELETE | /rooms/:id       | Delete room                                  |
+
+
+🧑‍💼 Guests
+
  
 | Method | Endpoint    | Description      |
 | ------ | ----------- | ---------------- |
@@ -30,6 +36,9 @@ A modern, responsive web application for managing hotel operations including roo
 | POST   | /guests     | Create new guest |
 | PUT    | /guests/:id | Update guest     |
 | DELETE | /guests/:id | Delete guest     |
+
+📆 Bookings
+
 
 | Method | Endpoint      | Description                        |
 | ------ | ------------- | ---------------------------------- |
