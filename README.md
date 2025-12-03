@@ -24,78 +24,105 @@ A modern, responsive web application for managing hotel operations including roo
 | PUT    | /rooms/:id       | Update room                                  |
 | DELETE | /rooms/:id       | Delete room                                  |
  
-🛏️ Rooms
+| Method | Endpoint    | Description      |
+| ------ | ----------- | ---------------- |
+| GET    | /guests     | Get all guests   |
+| POST   | /guests     | Create new guest |
+| PUT    | /guests/:id | Update guest     |
+| DELETE | /guests/:id | Delete guest     |
 
-• GET /rooms – Get all rooms
-• GET /rooms/available – Check availability (checkIn, checkOut, type)
-• POST /rooms – Create new room
-• PUT /rooms/:id – Update room
-• DELETE /rooms/:id – Delete room
+| Method | Endpoint      | Description                        |
+| ------ | ------------- | ---------------------------------- |
+| GET    | /bookings     | Get all bookings (optional: limit) |
+| GET    | /bookings/:id | Get specific booking               |
+| POST   | /bookings     | Create new booking                 |
+| PUT    | /bookings/:id | Update booking                     |
+| DELETE | /bookings/:id | Delete booking                     |
 
-🧑‍💼 Guests
-
-• GET /guests – Get all guests
-• POST /guests – Create new guest
-• PUT /guests/:id – Update guest
-• DELETE /guests/:id – Delete guest
-
-📆 Bookings
-
-• GET /bookings – Get all bookings (optional: limit)
-• GET /bookings/:id – Get specific booking
-• POST /bookings – Create new booking
-• PUT /bookings/:id – Update booking
-• DELETE /bookings/:id – Delete booking
 
 ✨ Features:
+
+
 1️⃣ Dashboard 📊
 
+
 • Real-time statistics (Total Rooms, Guests, Bookings, Available Rooms)
+
 • Trend indicators with percentage changes
+
 • Quick action buttons for common operations
+
 • Recent bookings table with status indicators
+
 • Refresh and report generation functionality
+
 
 2️⃣ Room Management 🛏️
 
 • View all rooms with detailed information
+
 • Add, edit, and delete rooms
+
 • Filter rooms by type and search by number/type
+
 • Check room availability by date range
+
 • Room status tracking (Available, Occupied, Maintenance)
+
 
 3️⃣ Guest Management 🧑‍💼
 
 • View guest list with contact information
+
 • Add, edit, and delete guest profiles
+
 • Search guests by name or email
+
 • Store guest details (name, email, phone, address, ID)
+
 
 4️⃣ Booking Management 📆
 
 • View all bookings with guest and room details
+
 • Create, edit, and delete bookings
+
 • Filter bookings by status
+
 • Search functionality
+
 • Booking status tracking (Pending, Confirmed, Checked In, Checked Out, Cancelled)
+
 
 5️⃣ UI/UX Features 🎨
 
 • Responsive design for mobile, tablet, and desktop
+
 • Modern luxury aesthetic with gold/blue color scheme
+
 • Smooth animations and transitions
+
 • Modal forms for data entry
+
 • Toast notifications for user feedback
+
 • Loading states and error handling
+
 • Interactive tables with action buttons
+
 
 6️⃣ Data Operations 🔗
 
 • Real-time data fetching from API
+
 • Form validation with error messages
+
 • Date validation for bookings
+
 • Search and filter functionality
+
 • Bulk operations support
+
 
 📘Frontend screenhots:
 
