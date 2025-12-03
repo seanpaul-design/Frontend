@@ -226,8 +226,11 @@ A modern, responsive web application for managing hotel operations including roo
 📂 File Structure
 
 hotel-management-system/
+
 ├── index.html          # Main HTML structure
+
 ├── style.css           # All styling and responsive design
+
 └── script.js           # All JavaScript functionality
 
 
@@ -277,7 +280,7 @@ hotel-management-system/
 This is a demo project for educational purposes.
 
 
-📘Frontend screenhots:
+📘Frontend screenshots:
 
 <img width="1886" height="1014" alt="Screenshot 2025-12-03 104139" src="https://github.com/user-attachments/assets/7f0b864a-494a-4348-9c94-a52fd2cd51ee" />
 <img width="1905" height="993" alt="Screenshot 2025-12-03 104152" src="https://github.com/user-attachments/assets/fdcede7e-448c-46c5-8a7a-e0378873b5a3" />
