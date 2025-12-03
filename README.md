@@ -4,19 +4,19 @@ Frontend link (deployed): https://frontend-phi-one-87.vercel.app/
 Backend API link base URL: https://hotel-management-api-b4dl.onrender.com/
 
 
-🏨 Luxury Hotel Management System - Documentation
+**🏨 Luxury Hotel Management System**
 
 
-📘 Overview
+**📘 Overview**
 
 
 A modern, responsive web application for managing hotel operations including rooms, guests, bookings, and dashboard analytics with a luxurious UI design.
 
 
 
-⚙️ API Endpoints Used:
+**⚙️ API Endpoints Used:**
 
-🛏️ Rooms
+**🛏️ Rooms**
 
 | Method | Endpoint         | Description                                  |
 | ------ | ---------------- | -------------------------------------------- |
@@ -27,7 +27,7 @@ A modern, responsive web application for managing hotel operations including roo
 | DELETE | /rooms/:id       | Delete room                                  |
 
 
-🧑‍💼 Guests
+**🧑‍💼 Guests**
 
  
 | Method | Endpoint    | Description      |
@@ -37,7 +37,7 @@ A modern, responsive web application for managing hotel operations including roo
 | PUT    | /guests/:id | Update guest     |
 | DELETE | /guests/:id | Delete guest     |
 
-📆 Bookings
+**📆 Bookings**
 
 
 | Method | Endpoint      | Description                        |
