@@ -4,7 +4,7 @@ Frontend link (deployed): https://frontend-phi-one-87.vercel.app/
 Backend API link base URL: https://hotel-management-api-b4dl.onrender.com/
 
 
-**🏨 Luxury Hotel Management System**
+## 🏨 Luxury Hotel Management System**
 
 
 **📘 Overview**
