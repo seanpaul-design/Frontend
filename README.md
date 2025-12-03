@@ -16,6 +16,14 @@ A modern, responsive web application for managing hotel operations including roo
 
 ⚙️ API Endpoints Used:
 
+| Method | Endpoint         | Description                                  |
+| ------ | ---------------- | -------------------------------------------- |
+| GET    | /rooms           | Get all rooms                                |
+| GET    | /rooms/available | Check availability (checkIn, checkOut, type) |
+| POST   | /rooms           | Create new room                              |
+| PUT    | /rooms/:id       | Update room                                  |
+| DELETE | /rooms/:id       | Delete room                                  |
+ 
 🛏️ Rooms
 
 • GET /rooms – Get all rooms
